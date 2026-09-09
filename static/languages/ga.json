@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh láidir is atá scileanna léitheoireachta i measc daltaí Eorpacha?",
+  "subtitle": "Tá Éire ar bharr an AE i léitheoireacht le 500 pointe i PISA 2025. Tá meán neamhualaithe an AE-27 thart ar 451 pointe, deich bpointe faoi bhun mheán an OECD de 461.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tá feidhmíocht léitheoireachta tite go géar go háirithe. Thit meán an OECD go 461 pointe i PISA 2025, 14 phointe níos ísle ná in 2022 agus 28 pointe faoi bhun leibhéal 2015 de 489. Bhain Éire an scór léitheoireachta is airde san AE amach ag 500 pointe, agus an Eastóin ina diaidh sin go dlúth ag 499, agus an Chipir ag taifeadadh an scór is ísle ag 379. Is meán neamhualaithe de na 27 meánscór náisiúnta é figiúr an AE de 451 pointe seachas comhiomlán oifigiúil an AE de chuid an OECD.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
