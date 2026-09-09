@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur starka är läsförmågan bland europeiska studenter?",
+  "subtitle": "Irland toppar EU i läsning med 500 poäng i PISA 2025. Det ovägda genomsnittet för EU-27 ligger runt 451 poäng, tio poäng under OECD-genomsnittet på 461.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Läsresultaten har minskat särskilt kraftigt. OECD-genomsnittet sjönk till 461 poäng i PISA 2025, 14 poäng lägre än 2022 och 28 poäng under 2015 års nivå på 489. Irland uppnådde det högsta läsresultatet i EU med 500 poäng, tätt följt av Estland med 499, medan Cypern hade det lägsta resultatet med 379. EU-siffran på 451 poäng är ett ovägt medelvärde av de 27 nationella medelresultaten snarare än ett officiellt OECD-EU-aggregat.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_NL": "Varning: en eller flera PISA-urvalsstandarder uppfylldes inte; tolka uppskattningen med försiktighet.",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
