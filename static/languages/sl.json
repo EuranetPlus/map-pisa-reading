@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako močne so bralne sposobnosti med evropskimi učenci?",
+  "subtitle": "Irska je v raziskavi PISA 2025 s 500 točkami na vrhu EU. Netehtano povprečje EU-27 je približno 451 točk, kar je deset točk pod povprečjem OECD, ki znaša 461.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Bralni uspeh se je še posebej močno zmanjšal. Povprečje OECD se je v raziskavi PISA 2025 znižalo na 461 točk, kar je 14 točk manj kot leta 2022 in 28 točk manj kot leta 2015, ko je znašalo 489 točk. Irska je dosegla najvišji bralni rezultat v EU s 500 točkami, tesno ji je sledila Estonija s 499 točkami, Ciper pa je zabeležil najnižji rezultat s 379 točkami. Podatek za EU, ki znaša 451 točk, je netehtano povprečje 27 nacionalnih povprečnih rezultatov in ne uradni agregat OECD za EU.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno.",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
