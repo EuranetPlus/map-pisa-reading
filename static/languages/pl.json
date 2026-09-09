@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak wysoki jest poziom umiejętności czytania wśród uczniów europejskich?",
+  "subtitle": "Irlandia jest liderem UE w czytaniu w badaniu PISA 2025, zdobywając 500 punktów. Nieważona średnia dla UE-27 wynosi około 451 punktów, czyli o dziesięć punktów mniej niż średnia OECD wynosząca 461.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wyniki w czytaniu spadły szczególnie gwałtownie. Średnia OECD spadła do 461 punktów w badaniu PISA 2025, o 14 punktów mniej niż w 2022 roku i o 28 punktów poniżej poziomu z 2015 roku, który wyniósł 489. Irlandia uzyskała najwyższy wynik w czytaniu w UE – 500 punktów, tuż za nią uplasowała się Estonia z wynikiem 499, a Cypr odnotował najniższy wynik – 379. Wynik UE wynoszący 451 punktów to nieważona średnia 27 średnich krajowych wyników, a nie oficjalny wynik OECD dla UE.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek.",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
