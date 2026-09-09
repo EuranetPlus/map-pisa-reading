@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How strong are reading skills among European students?",
+  "subtitle": "Ireland tops the EU in reading with 500 points in PISA 2025. The unweighted EU-27 average is around 451 points, ten points below the OECD average of 461.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Reading performance has fallen particularly sharply. The OECD average dropped to 461 points in PISA 2025, 14 points lower than in 2022 and 28 points below the 2015 level of 489. Ireland achieved the highest reading score in the EU at 500 points, closely followed by Estonia at 499, while Cyprus recorded the lowest score at 379. The EU figure of 451 points is an unweighted average of the 27 national mean scores rather than an official OECD EU aggregate.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care.",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
