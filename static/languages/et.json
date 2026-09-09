@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui head on Euroopa õpilaste lugemisoskused?",
+  "subtitle": "Iirimaa on PISA 2025. aasta uuringus lugemises 500 punktiga ELis esikohal. EL-27 kaalumata keskmine on umbes 451 punkti, mis on kümme punkti madalam OECD keskmisest 461 punktist.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Eriti järsult on langenud lugemisoskus. OECD keskmine langes PISA 2025. aastal 461 punktini, mis on 14 punkti madalam kui 2022. aastal ja 28 punkti madalam kui 2015. aasta tase 489. Iirimaa saavutas ELis kõrgeima lugemistulemuse 500 punktiga, millele järgnes tihedalt Eesti 499 punktiga, samas kui Küprosel registreeriti madalaim tulemus 379 punktiga. ELi näitaja 451 punkti on 27 riigi keskmiste tulemuste kaalumata keskmine, mitte OECD ametlik ELi koondnäitaja.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult.",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
