@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka vahvoja eurooppalaisten opiskelijoiden lukutaidot ovat?",
+  "subtitle": "Irlanti on EU:n kärjessä lukemisessa 500 pisteellä PISA 2025 -tutkimuksessa. Painottamaton EU27:n keskiarvo on noin 451 pistettä, kymmenen pistettä alle OECD:n keskiarvon, joka on 461.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Lukutaito on laskenut erityisen jyrkästi. OECD:n keskiarvo laski 461 pisteeseen PISA 2025 -tutkimuksessa, mikä on 14 pistettä vähemmän kuin vuonna 2022 ja 28 pistettä vähemmän kuin vuoden 2015 taso 489. Irlanti saavutti EU:n korkeimman lukutuloksen, 500 pistettä, ja sitä seurasi tiiviisti Viro 499 pisteellä, kun taas Kypros saavutti alhaisimman pistemäärän, 379. EU:n luku 451 pistettä on 27 kansallisen keskiarvon painottamaton keskiarvo eikä virallinen OECD:n EU-aggregaatti.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
