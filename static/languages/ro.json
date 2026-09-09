@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de puternice sunt abilitățile de citire în rândul elevilor europeni?",
+  "subtitle": "Irlanda se află în fruntea UE la citire, cu 500 de puncte în PISA 2025. Media neponderată a UE-27 este de aproximativ 451 de puncte, cu zece puncte sub media OCDE de 461.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Performanța la citire a scăzut deosebit de brusc. Media OCDE a scăzut la 461 de puncte în PISA 2025, cu 14 puncte mai mică decât în 2022 și cu 28 de puncte sub nivelul din 2015 de 489. Irlanda a obținut cel mai mare scor la citire din UE, de 500 de puncte, urmată îndeaproape de Estonia, cu 499, în timp ce Cipru a înregistrat cel mai mic scor, de 379. Cifra UE de 451 de puncte este o medie neponderată a celor 27 de scoruri medii naționale, mai degrabă decât un agregat oficial OCDE la nivelul UE.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție.",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
