@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik labas ir lasītprasmes Eiropas skolēnu vidū?",
+  "subtitle": "Īrija PISA 2025. gada apsekojumā lasīšanas ziņā ir ES līdere ar 500 punktiem. Nesvērtais ES 27 vidējais rādītājs ir aptuveni 451 punkts, kas ir par desmit punktiem zemāk nekā ESAO vidējais rādītājs — 461 punkts.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Lasīšanas sniegums ir īpaši strauji krities. ESAO vidējais rādītājs PISA 2025. gadā nokritās līdz 461 punktam, kas ir par 14 punktiem zemāk nekā 2022. gadā un par 28 punktiem zemāk nekā 2015. gada līmenis — 489 punkti. Īrija sasniedza augstāko lasīšanas rezultātu ES — 500 punkti, tai cieši sekoja Igaunija — 499 punkti, savukārt Kipra uzrādīja zemāko rezultātu — 379 punkti. ES rādītājs — 451 punkts — ir 27 valstu vidējo rezultātu nesvērtais vidējais rādītājs, nevis oficiāls ESAO — ES apkopotais rādītājs.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
