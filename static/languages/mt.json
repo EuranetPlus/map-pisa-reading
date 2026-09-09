@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm huma b'saħħithom il-ħiliet tal-qari fost l-istudenti Ewropej?",
+  "subtitle": "L-Irlanda tinsab fl-ewwel post fl-UE fil-qari b'500 punt fil-PISA 2025. Il-medja mhux ponderata tal-UE-27 hija madwar 451 punt, għaxar punti taħt il-medja tal-OECD ta' 461.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-prestazzjoni fil-qari niżlet b'mod partikolarment qawwi. Il-medja tal-OECD niżlet għal 461 punt fil-PISA 2025, 14-il punt inqas milli fl-2022 u 28 punt taħt il-livell tal-2015 ta' 489. L-Irlanda kisbet l-ogħla punteġġ tal-qari fl-UE b'500 punt, segwita mill-qrib mill-Estonja b'499, filwaqt li Ċipru rreġistrat l-inqas punteġġ b'379. Iċ-ċifra tal-UE ta' 451 punt hija medja mhux ponderata tas-27 punteġġ medju nazzjonali aktar milli aggregat uffiċjali tal-OECD tal-UE.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_NL": "Attenzjoni: standard wieħed jew aktar tal-kampjunar tal-PISA ma ntlaħqux; interpreta l-istima b'attenzjoni.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
