@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko su jake vještine čitanja među europskim učenicima?",
+  "subtitle": "Irska je na vrhu EU u čitanju s 500 bodova u PISA-i 2025. Neponderirani prosjek EU-27 iznosi oko 451 bod, deset bodova ispod prosjeka OECD-a od 461.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Čitalački rezultati su posebno naglo pali. Prosjek OECD-a pao je na 461 bod u PISA-i 2025, što je 14 bodova niže nego u 2022. i 28 bodova ispod razine od 489 iz 2015. Irska je postigla najviši rezultat u čitanju u EU s 500 bodova, a odmah iza nje slijedi Estonija s 499, dok je Cipar zabilježio najniži rezultat s 379. Brojka za EU od 451 bod je neponderirani prosjek 27 nacionalnih prosječnih rezultata, a ne službeni agregirani podatak OECD-a za EU.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "OECD (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom.",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
