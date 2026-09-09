@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie gut sind die Lesefähigkeiten europäischer Schüler ausgeprägt?",
+  "subtitle": "Irland führt die EU im Leseverständnis mit 500 Punkten im PISA 2025 an. Der ungewichtete Durchschnitt der EU-27 liegt bei rund 451 Punkten, zehn Punkte unter dem OECD-Durchschnitt von 461 Punkten.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Leseleistung ist besonders stark gesunken. Der OECD-Durchschnitt fiel im PISA-Test 2025 auf 461 Punkte, 14 Punkte weniger als 2022 und 28 Punkte unter dem Wert von 489 Punkten aus dem Jahr 2015. Irland erzielte mit 500 Punkten das beste Leseergebnis in der EU, dicht gefolgt von Estland mit 499 Punkten, während Zypern mit 379 Punkten das niedrigste Ergebnis verzeichnete. Der EU-Wert von 451 Punkten ist ein ungewichteter Durchschnitt der 27 nationalen Durchschnittswerte und kein offizieller OECD-EU-Gesamtwert.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
