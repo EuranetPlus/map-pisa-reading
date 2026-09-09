@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le niveau de compétences en lecture des élèves européens ?",
+  "subtitle": "L'Irlande arrive en tête de l'UE en lecture avec 500 points au PISA 2025. La moyenne non pondérée de l'UE-27 est d'environ 451 points, soit dix points de moins que la moyenne de l'OCDE (461 points).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les performances en lecture ont particulièrement chuté. La moyenne de l'OCDE a baissé à 461 points dans le cadre du PISA 2025, soit 14 points de moins qu'en 2022 et 28 points de moins qu'en 2015 (489 points). L'Irlande a obtenu le meilleur score de l'UE en lecture avec 500 points, suivie de près par l'Estonie (499 points), tandis que Chypre a enregistré le score le plus faible (379 points). Le chiffre de l'UE (451 points) correspond à une moyenne non pondérée des 27 scores nationaux moyens et non à un agrégat officiel de l'OCDE.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_NL": "Attention : une ou plusieurs normes d’échantillonnage PISA n’ont pas été respectées ; interprétez l’estimation avec prudence.",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
