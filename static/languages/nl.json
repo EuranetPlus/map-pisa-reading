@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe goed zijn de leesvaardigheden van Europese studenten?",
+  "subtitle": "Ierland staat met 500 punten in PISA 2025 bovenaan de EU-ranglijst voor leesvaardigheid. Het ongewogen gemiddelde van de EU-27 ligt rond de 451 punten, tien punten lager dan het OECD-gemiddelde van 461.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De leesprestaties zijn met name sterk achteruitgegaan. Het gemiddelde van de OESO daalde naar 461 punten in PISA 2025, 14 punten lager dan in 2022 en 28 punten lager dan het niveau van 489 in 2015. Ierland behaalde de hoogste leesscore in de EU met 500 punten, op de voet gevolgd door Estland met 499, terwijl Cyprus de laagste score noteerde met 379. Het EU-cijfer van 451 punten is een ongewogen gemiddelde van de 27 nationale gemiddelde scores en geen officieel OESO-gemiddelde voor de EU.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "OESO (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
