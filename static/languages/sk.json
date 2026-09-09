@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aké silné sú čitateľské zručnosti európskych študentov?",
+  "subtitle": "Írsko je v teste PISA 2025 na čele EÚ v čítaní s 500 bodmi. Nevážený priemer EÚ-27 je okolo 451 bodov, čo je desať bodov pod priemerom OECD, ktorý je 461.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Obzvlášť prudko klesla čitateľská výkonnosť. Priemer OECD klesol v teste PISA 2025 na 461 bodov, čo je o 14 bodov menej ako v roku 2022 a o 28 bodov menej ako v roku 2015, keď bola 489. Írsko dosiahlo najvyššie skóre v čítaní v EÚ s 500 bodmi, tesne nasledované Estónskom so 499 bodmi, zatiaľ čo Cyprus zaznamenal najnižšie skóre s 379 bodmi. Údaj EÚ 451 bodov je nevážený priemer 27 národných priemerných skóre, a nie oficiálny súhrn OECD za EÚ.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
