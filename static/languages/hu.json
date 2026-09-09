@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire erősek az olvasási készségek az európai diákok körében?",
+  "subtitle": "Írország az EU élén áll olvasásban 500 ponttal a 2025-ös PISA-felmérésen. Az EU-27 súlyozatlan átlaga körülbelül 451 pont, ami tíz ponttal alacsonyabb az OECD 461-es átlagánál.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az olvasási teljesítmény különösen meredeken zuhant. Az OECD átlaga 461 pontra esett vissza a 2025-ös PISA-felmérésben, ami 14 ponttal alacsonyabb, mint 2022-ben, és 28 ponttal alacsonyabb a 2015-ös 489-es szintnél. Írország érte el a legmagasabb olvasási pontszámot az EU-ban 500 ponttal, szorosan a nyomában Észtország következett 499 ponttal, míg Ciprus a legalacsonyabb pontszámot 379 ponttal produkálta. Az EU 451 pontos adata a 27 nemzeti átlagpontszám súlyozatlan átlaga, nem pedig egy hivatalos OECD EU-aggregátum.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
