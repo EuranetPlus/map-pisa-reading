@@ -1,12 +1,12 @@
 {
-  "title": "Koliko su jake vještine čitanja među europskim učenicima?",
-  "subtitle": "Irska je na vrhu EU u čitanju s 500 bodova u PISA-i 2025. Neponderirani prosjek EU-27 iznosi oko 451 bod, deset bodova ispod prosjeka OECD-a od 461.",
+  "title": "Kakvi su rezultati europskih učenika u čitanju?",
+  "subtitle": "S 500 bodova na PISA testu za 2025. godinu, Irska je na vrhu ljestvice EU u čitanju, dok je Cipar posljednji s 379. Prosjek za cijelu EU iznosi oko 451 bod, deset bodova ispod prosjeka OECD-a od 461.",
   "textNoteDescription": "Bilješka",
-  "textNote": "Čitalački rezultati su posebno naglo pali. Prosjek OECD-a pao je na 461 bod u PISA-i 2025, što je 14 bodova niže nego u 2022. i 28 bodova ispod razine od 489 iz 2015. Irska je postigla najviši rezultat u čitanju u EU s 500 bodova, a odmah iza nje slijedi Estonija s 499, dok je Cipar zabilježio najniži rezultat s 379. Brojka za EU od 451 bod je neponderirani prosjek 27 nacionalnih prosječnih rezultata, a ne službeni agregirani podatak OECD-a za EU.",
+  "textNote": "PISA procjenjuje sposobnost 15-godišnjih učenika da primijene svoje znanje i vještine kako bi se suočili sa stvarnim životnim izazovima. Čitalački rezultati posebno su oštro pali u cijelom OECD-u, 14 bodova niže nego u 2022. i 28 bodova ispod razine od 489 iz 2015. Brojka za EU od 451 bod je neponderirani prosjek 27 nacionalnih prosječnih rezultata i ne predstavlja službeni OECD-ov agregirani rezultat za EU.",
   "textSourceDescription": "Izvor",
   "textSource": "OECD (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
-  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom.",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom."
 }

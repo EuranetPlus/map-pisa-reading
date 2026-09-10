@@ -1,12 +1,12 @@
 {
-  "title": "Mennyire erősek az olvasási készségek az európai diákok körében?",
-  "subtitle": "Írország az EU élén áll olvasásban 500 ponttal a 2025-ös PISA-felmérésen. Az EU-27 súlyozatlan átlaga körülbelül 451 pont, ami tíz ponttal alacsonyabb az OECD 461-es átlagánál.",
+  "title": "Hogyan teljesítenek az európai diákok olvasásban?",
+  "subtitle": "A 2025-ös PISA-teszten elért 500 ponttal Írország vezeti az EU-s rangsort olvasás terén, míg Ciprus az utolsó 379 ponttal. Az EU-szerte mért átlag körülbelül 451 pont, ami tíz ponttal alacsonyabb az OECD 461-es átlagánál.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az olvasási teljesítmény különösen meredeken zuhant. Az OECD átlaga 461 pontra esett vissza a 2025-ös PISA-felmérésben, ami 14 ponttal alacsonyabb, mint 2022-ben, és 28 ponttal alacsonyabb a 2015-ös 489-es szintnél. Írország érte el a legmagasabb olvasási pontszámot az EU-ban 500 ponttal, szorosan a nyomában Észtország következett 499 ponttal, míg Ciprus a legalacsonyabb pontszámot 379 ponttal produkálta. Az EU 451 pontos adata a 27 nemzeti átlagpontszám súlyozatlan átlaga, nem pedig egy hivatalos OECD EU-aggregátum.",
+  "textNote": "A PISA a 15 éves tanulók azon képességét méri, hogy tudásukat és készségeiket a valós élet kihívásainak leküzdésére alkalmazzák. Az olvasási teljesítmény különösen meredeken esett vissza az OECD-országokban, 14 ponttal alacsonyabb, mint 2022-ben, és 28 ponttal a 2015-ös 489-es szint alatt. Az EU-ban mért 451 pontos adat a 27 nemzeti átlagpontszám súlyozatlan átlaga, és nem minősül hivatalos OECD-aggregátumnak az EU számára.",
   "textSourceDescription": "Forrás",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni.",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni."
 }

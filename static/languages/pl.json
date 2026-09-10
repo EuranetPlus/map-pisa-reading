@@ -1,12 +1,12 @@
 {
-  "title": "Jak wysoki jest poziom umiejętności czytania wśród uczniów europejskich?",
-  "subtitle": "Irlandia jest liderem UE w czytaniu w badaniu PISA 2025, zdobywając 500 punktów. Nieważona średnia dla UE-27 wynosi około 451 punktów, czyli o dziesięć punktów mniej niż średnia OECD wynosząca 461.",
+  "title": "Jakie wyniki osiągają europejscy uczniowie w czytaniu?",
+  "subtitle": "Z wynikiem 500 punktów w teście PISA 2025 Irlandia zajmuje pierwsze miejsce w rankingu UE w kategorii czytania, podczas gdy Cypr jest ostatni z wynikiem 379 punktów. Średnia dla całej UE wynosi około 451 punktów, czyli o dziesięć punktów mniej niż średnia OECD wynosząca 461.",
   "textNoteDescription": "Notatka",
-  "textNote": "Wyniki w czytaniu spadły szczególnie gwałtownie. Średnia OECD spadła do 461 punktów w badaniu PISA 2025, o 14 punktów mniej niż w 2022 roku i o 28 punktów poniżej poziomu z 2015 roku, który wyniósł 489. Irlandia uzyskała najwyższy wynik w czytaniu w UE – 500 punktów, tuż za nią uplasowała się Estonia z wynikiem 499, a Cypr odnotował najniższy wynik – 379. Wynik UE wynoszący 451 punktów to nieważona średnia 27 średnich krajowych wyników, a nie oficjalny wynik OECD dla UE.",
+  "textNote": "Badanie PISA ocenia zdolność 15-letnich uczniów do wykorzystania wiedzy i umiejętności w radzeniu sobie z wyzwaniami życia codziennego. Wyniki w czytaniu spadły szczególnie gwałtownie w krajach OECD, o 14 punktów procentowych mniej niż w 2022 roku i o 28 punktów poniżej poziomu z 2015 roku, który wynosił 489. Wynik UE wynoszący 451 punktów jest średnią nieważoną 27 średnich wyników krajowych i nie stanowi oficjalnego agregatu OECD dla UE.",
   "textSourceDescription": "Źródło",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
-  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek.",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek."
 }

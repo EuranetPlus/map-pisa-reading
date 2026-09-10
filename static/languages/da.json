@@ -1,12 +1,12 @@
 {
-  "title": "Hvor stærke er læsefærdighederne blandt europæiske studerende?",
-  "subtitle": "Irland topper EU i læsning med 500 point i PISA 2025. Det uvægtede gennemsnit for EU-27 er omkring 451 point, ti point under OECD-gennemsnittet på 461.",
+  "title": "Hvordan klarer europæiske elever sig i læsning?",
+  "subtitle": "Med 500 point i PISA-testen i 2025 topper Irland EU's rangliste i læsning, mens Cypern ligger sidst med 379 point. EU-gennemsnittet ligger på omkring 451 point, ti point under OECD-gennemsnittet på 461.",
   "textNoteDescription": "Note",
-  "textNote": "Læsefærdighederne er faldet særligt kraftigt. OECD-gennemsnittet faldt til 461 point i PISA 2025, 14 point lavere end i 2022 og 28 point under 2015-niveauet på 489. Irland opnåede den højeste læsescore i EU med 500 point, tæt efterfulgt af Estland med 499, mens Cypern opnåede den laveste score med 379. EU-tallet på 451 point er et uvægtet gennemsnit af de 27 nationale gennemsnitsscorer snarere end et officielt OECD EU-aggregat.",
+  "textNote": "PISA vurderer 15-årige elevers evne til at anvende deres viden og færdigheder til at tackle virkelige udfordringer. Læsepræstationerne er faldet særligt kraftigt i OECD, 14 point lavere end i 2022 og 28 point under 2015-niveauet på 489. EU-tallet på 451 point er et uvægtet gennemsnit af de 27 nationale gennemsnitsscorer og udgør ikke et officielt OECD-aggregat for EU.",
   "textSourceDescription": "Kilde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
-  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed.",
   "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed."
 }

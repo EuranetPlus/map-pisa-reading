@@ -1,12 +1,12 @@
 {
-  "title": "Cik labas ir lasītprasmes Eiropas skolēnu vidū?",
-  "subtitle": "Īrija PISA 2025. gada apsekojumā lasīšanas ziņā ir ES līdere ar 500 punktiem. Nesvērtais ES 27 vidējais rādītājs ir aptuveni 451 punkts, kas ir par desmit punktiem zemāk nekā ESAO vidējais rādītājs — 461 punkts.",
+  "title": "Kādi ir Eiropas skolēnu rezultāti lasīšanā?",
+  "subtitle": "Ar 500 punktiem 2025. gada PISA testā Īrija ieņem pirmo vietu ES lasīšanas rangā, savukārt Kipra ar 379 punktiem ieņem pēdējo vietu. ES vidējais rādītājs ir aptuveni 451 punkts, kas ir par desmit punktiem zemāk nekā ESAO vidējais rādītājs – 461.",
   "textNoteDescription": "Piezīme",
-  "textNote": "Lasīšanas sniegums ir īpaši strauji krities. ESAO vidējais rādītājs PISA 2025. gadā nokritās līdz 461 punktam, kas ir par 14 punktiem zemāk nekā 2022. gadā un par 28 punktiem zemāk nekā 2015. gada līmenis — 489 punkti. Īrija sasniedza augstāko lasīšanas rezultātu ES — 500 punkti, tai cieši sekoja Igaunija — 499 punkti, savukārt Kipra uzrādīja zemāko rezultātu — 379 punkti. ES rādītājs — 451 punkts — ir 27 valstu vidējo rezultātu nesvērtais vidējais rādītājs, nevis oficiāls ESAO — ES apkopotais rādītājs.",
+  "textNote": "PISA novērtē 15 gadus vecu skolēnu spēju pielietot savas zināšanas un prasmes, lai risinātu reālās dzīves izaicinājumus. Lasīšanas sniegums ir īpaši strauji krities visā ESAO, par 14 punktiem zemāks nekā 2022. gadā un par 28 punktiem zemāks nekā 2015. gada līmenis (489 punkti). ES rādītājs 451 punkts ir 27 valstu vidējo rezultātu nesvērtais vidējais rādītājs un nav oficiāls ESAO apkopotais rādītājs ES.",
   "textSourceDescription": "Avots",
   "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
   "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi."
 }

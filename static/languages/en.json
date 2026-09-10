@@ -1,12 +1,12 @@
 {
-  "title": "How strong are reading skills among European students?",
-  "subtitle": "Ireland tops the EU in reading with 500 points in PISA 2025. The unweighted EU-27 average is around 451 points, ten points below the OECD average of 461.",
+  "title": "How do European pupils perform in reading?",
+  "subtitle": "With 500 points in the 2025 PISA test, Ireland tops the EU rankings in reading, while Cyprus is last at 379. The EU-wide average stands at around 451 points, ten points below the OECD average of 461.",
   "textNoteDescription": "Note",
-  "textNote": "Reading performance has fallen particularly sharply. The OECD average dropped to 461 points in PISA 2025, 14 points lower than in 2022 and 28 points below the 2015 level of 489. Ireland achieved the highest reading score in the EU at 500 points, closely followed by Estonia at 499, while Cyprus recorded the lowest score at 379. The EU figure of 451 points is an unweighted average of the 27 national mean scores rather than an official OECD EU aggregate.",
+  "textNote": "PISA assesses 15-year-old pupils' ability to apply their knowledge and skills to tackle real-life challenges. Reading performance has fallen particularly sharply across the OECD, 14 points lower than in 2022 and 28 points below the 2015 level of 489. The EU figure of 451 points is an unweighted average of the 27 national mean scores, and does not constitute an official OECD aggregate for the EU.",
   "textSourceDescription": "Source",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care.",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care."
 }

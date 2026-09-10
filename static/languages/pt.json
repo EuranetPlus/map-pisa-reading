@@ -1,12 +1,12 @@
 {
-  "title": "Qual o nível de habilidades de leitura entre os estudantes europeus?",
-  "subtitle": "A Irlanda lidera a UE em leitura com 500 pontos no PISA 2025. A média não ponderada da UE-27 é de cerca de 451 pontos, dez pontos abaixo da média da OCDE, que é de 461.",
+  "title": "Qual é o desempenho dos alunos europeus em leitura?",
+  "subtitle": "Com 500 pontos no teste PISA de 2025, a Irlanda lidera o ranking da UE em leitura, enquanto o Chipre ocupa a última posição com 379 pontos. A média da UE situa-se em torno de 451 pontos, dez pontos abaixo da média da OCDE, que é de 461.",
   "textNoteDescription": "Observação",
-  "textNote": "O desempenho em leitura caiu acentuadamente. A média da OCDE caiu para 461 pontos no PISA 2025, 14 pontos a menos do que em 2022 e 28 pontos abaixo do nível de 489 em 2015. A Irlanda alcançou a pontuação mais alta em leitura na UE, com 500 pontos, seguida de perto pela Estônia, com 499, enquanto o Chipre registrou a pontuação mais baixa, com 379. O valor de 451 pontos para a UE é uma média não ponderada das 27 médias nacionais, e não um agregado oficial da OCDE para a UE.",
+  "textNote": "O PISA avalia a capacidade de alunos de 15 anos de aplicar seus conhecimentos e habilidades para enfrentar desafios da vida real. O desempenho em leitura caiu acentuadamente em toda a OCDE, 14 pontos abaixo do registrado em 2022 e 28 pontos abaixo do nível de 489 em 2015. A pontuação da UE, de 451 pontos, é uma média não ponderada das 27 médias nacionais e não constitui um agregado oficial da OCDE para a UE.",
   "textSourceDescription": "Fonte",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela.",
   "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Kako močne so bralne sposobnosti med evropskimi učenci?",
-  "subtitle": "Irska je v raziskavi PISA 2025 s 500 točkami na vrhu EU. Netehtano povprečje EU-27 je približno 451 točk, kar je deset točk pod povprečjem OECD, ki znaša 461.",
+  "title": "Kakšni so rezultati evropskih učencev pri branju?",
+  "subtitle": "Irska je s 500 točkami na testu PISA 2025 na vrhu lestvice EU pri branju, Ciper pa je zadnji s 379 točkami. Povprečje v celotni EU znaša približno 451 točk, kar je deset točk pod povprečjem OECD, ki znaša 461.",
   "textNoteDescription": "Opomba",
-  "textNote": "Bralni uspeh se je še posebej močno zmanjšal. Povprečje OECD se je v raziskavi PISA 2025 znižalo na 461 točk, kar je 14 točk manj kot leta 2022 in 28 točk manj kot leta 2015, ko je znašalo 489 točk. Irska je dosegla najvišji bralni rezultat v EU s 500 točkami, tesno ji je sledila Estonija s 499 točkami, Ciper pa je zabeležil najnižji rezultat s 379 točkami. Podatek za EU, ki znaša 451 točk, je netehtano povprečje 27 nacionalnih povprečnih rezultatov in ne uradni agregat OECD za EU.",
+  "textNote": "PISA ocenjuje sposobnost 15-letnih učencev, da svoje znanje in spretnosti uporabijo za spopadanje z izzivi resničnega življenja. Bralni dosežki so se v OECD še posebej močno zmanjšali, in sicer za 14 točk nižje kot leta 2022 in 28 točk nižje od ravni 489 iz leta 2015. Številka 451 točk za EU je netehtano povprečje 27 nacionalnih povprečnih rezultatov in ne predstavlja uradnega agregata OECD za EU.",
   "textSourceDescription": "Vir",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno.",
   "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno."
 }

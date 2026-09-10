@@ -1,12 +1,12 @@
 {
-  "title": "Cé chomh láidir is atá scileanna léitheoireachta i measc daltaí Eorpacha?",
-  "subtitle": "Tá Éire ar bharr an AE i léitheoireacht le 500 pointe i PISA 2025. Tá meán neamhualaithe an AE-27 thart ar 451 pointe, deich bpointe faoi bhun mheán an OECD de 461.",
+  "title": "Conas a éiríonn le daltaí Eorpacha sa léitheoireacht?",
+  "subtitle": "Le 500 pointe i dtástáil PISA 2025, tá Éire ar bharr rangú an AE i léitheoireacht, agus tá an Chipir sa deireadh ag 379. Seasann meán an AE ag thart ar 451 pointe, deich bpointe faoi bhun mheán an OECD de 461.",
   "textNoteDescription": "Nóta",
-  "textNote": "Tá feidhmíocht léitheoireachta tite go géar go háirithe. Thit meán an OECD go 461 pointe i PISA 2025, 14 phointe níos ísle ná in 2022 agus 28 pointe faoi bhun leibhéal 2015 de 489. Bhain Éire an scór léitheoireachta is airde san AE amach ag 500 pointe, agus an Eastóin ina diaidh sin go dlúth ag 499, agus an Chipir ag taifeadadh an scór is ísle ag 379. Is meán neamhualaithe de na 27 meánscór náisiúnta é figiúr an AE de 451 pointe seachas comhiomlán oifigiúil an AE de chuid an OECD.",
+  "textNote": "Déanann PISA measúnú ar chumas daltaí 15 bliana d'aois a gcuid eolais agus scileanna a chur i bhfeidhm chun dul i ngleic le dúshláin sa saol fíor. Tá feidhmíocht léitheoireachta tite go géar go háirithe ar fud an OECD, 14 phointe níos ísle ná in 2022 agus 28 pointe faoi bhun leibhéal 2015 de 489. Is meán neamhualaithe de na 27 scór meán náisiúnta é figiúr an AE de 451 pointe, agus ní comhiomlán oifigiúil OECD don AE é.",
   "textSourceDescription": "Foinse",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
-  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach."
 }

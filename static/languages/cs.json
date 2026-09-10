@@ -1,12 +1,12 @@
 {
-  "title": "Jak silné jsou čtenářské dovednosti evropských studentů?",
-  "subtitle": "Irsko je v testu PISA 2025 s 500 body na prvním místě v EU ve čtení. Nevážený průměr EU-27 je přibližně 451 bodů, což je deset bodů pod průměrem OECD, který činí 461.",
+  "title": "Jak si evropští žáci vedou ve čtení?",
+  "subtitle": "S 500 body v testu PISA z roku 2025 je Irsko na prvním místě v žebříčku EU ve čtení, zatímco Kypr je poslední s 379 body. Průměr v celé EU je přibližně 451 bodů, což je deset bodů pod průměrem OECD, který činí 461.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Obzvláště prudce klesly výsledky ve čtení. Průměr OECD v PISA 2025 klesl na 461 bodů, což je o 14 bodů méně než v roce 2022 a o 28 bodů méně než v roce 2015, kdy činila 489 bodů. Irsko dosáhlo nejvyššího skóre ve čtení v EU s 500 body, těsně následované Estonskem se 499 body, zatímco Kypr zaznamenal nejnižší skóre s 379 body. Číslo 451 bodů pro EU je nevážený průměr 27 národních průměrných skóre, nikoli oficiální souhrnný údaj OECD za EU.",
+  "textNote": "PISA hodnotí schopnost patnáctiletých žáků aplikovat své znalosti a dovednosti k řešení problémů reálného života. Čtenářské výsledky v zemích OECD prudce poklesly, a to o 14 bodů méně než v roce 2022 a o 28 bodů méně než v roce 2015, kdy činily 489 bodů. Hodnota 451 bodů pro EU je nevážený průměr 27 národních průměrných skóre a nepředstavuje oficiální souhrnnou hodnotu OECD pro EU.",
   "textSourceDescription": "Zdroj",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_NL": "Pozor: nebyl splněn jeden nebo více standardů pro výběr vzorků PISA; odhad interpretujte s opatrností.",
   "legend1": "Nejsou k dispozici žádná data",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "extraInfo_NL": "Pozor: nebyl splněn jeden nebo více standardů pro výběr vzorků PISA; odhad interpretujte s opatrností."
 }

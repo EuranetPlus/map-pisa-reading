@@ -1,12 +1,12 @@
 {
-  "title": "Wie gut sind die Lesefähigkeiten europäischer Schüler ausgeprägt?",
-  "subtitle": "Irland führt die EU im Leseverständnis mit 500 Punkten im PISA 2025 an. Der ungewichtete Durchschnitt der EU-27 liegt bei rund 451 Punkten, zehn Punkte unter dem OECD-Durchschnitt von 461 Punkten.",
+  "title": "Wie schneiden europäische Schüler im Lesen ab?",
+  "subtitle": "Mit 500 Punkten im PISA-Test 2025 führt Irland die EU-Rangliste im Bereich Lesekompetenz an, während Zypern mit 379 Punkten den letzten Platz belegt. Der EU-weite Durchschnitt liegt bei rund 451 Punkten und damit zehn Punkte unter dem OECD-Durchschnitt von 461 Punkten.",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Leseleistung ist besonders stark gesunken. Der OECD-Durchschnitt fiel im PISA-Test 2025 auf 461 Punkte, 14 Punkte weniger als 2022 und 28 Punkte unter dem Wert von 489 Punkten aus dem Jahr 2015. Irland erzielte mit 500 Punkten das beste Leseergebnis in der EU, dicht gefolgt von Estland mit 499 Punkten, während Zypern mit 379 Punkten das niedrigste Ergebnis verzeichnete. Der EU-Wert von 451 Punkten ist ein ungewichteter Durchschnitt der 27 nationalen Durchschnittswerte und kein offizieller OECD-EU-Gesamtwert.",
+  "textNote": "PISA misst die Fähigkeit von 15-jährigen Schülerinnen und Schülern, ihr Wissen und ihre Fertigkeiten anzuwenden, um Herausforderungen des realen Lebens zu meistern. Die Leseleistung ist in den OECD-Ländern besonders stark gesunken: Sie liegt 14 Punkte unter dem Wert von 2022 und 28 Punkte unter dem Niveau von 489 Punkten aus dem Jahr 2015. Der EU-Wert von 451 Punkten ist ein ungewichteter Durchschnitt der 27 nationalen Durchschnittswerte und stellt keinen offiziellen OECD-Gesamtwert für die EU dar.",
   "textSourceDescription": "Quelle",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
-  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht.",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht."
 }

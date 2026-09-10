@@ -1,12 +1,12 @@
 {
-  "title": "¿Qué tan buenas son las habilidades de lectura entre los estudiantes europeos?",
-  "subtitle": "Irlanda lidera la UE en lectura con 500 puntos en PISA 2025. El promedio no ponderado de la UE-27 es de alrededor de 451 puntos, diez puntos por debajo del promedio de la OCDE de 461.",
+  "title": "¿Qué resultados obtienen los alumnos europeos en lectura?",
+  "subtitle": "Con 500 puntos en la prueba PISA 2025, Irlanda encabeza la clasificación de la UE en lectura, mientras que Chipre ocupa el último lugar con 379 puntos. El promedio de la UE se sitúa en torno a los 451 puntos, diez puntos por debajo del promedio de la OCDE, que es de 461.",
   "textNoteDescription": "Nota",
-  "textNote": "El rendimiento en lectura ha disminuido de forma especialmente pronunciada. La media de la OCDE cayó a 461 puntos en PISA 2025, 14 puntos menos que en 2022 y 28 puntos por debajo del nivel de 489 de 2015. Irlanda obtuvo la puntuación más alta de la UE en lectura, con 500 puntos, seguida de cerca por Estonia con 499, mientras que Chipre registró la puntuación más baja, con 379. La cifra de la UE de 451 puntos es una media no ponderada de las 27 puntuaciones medias nacionales, y no un agregado oficial de la OCDE para la UE.",
+  "textNote": "PISA evalúa la capacidad de los alumnos de 15 años para aplicar sus conocimientos y habilidades a la resolución de problemas de la vida real. El rendimiento en lectura ha disminuido notablemente en toda la OCDE, situándose 14 puntos por debajo de 2022 y 28 puntos por debajo del nivel de 489 de 2015. La cifra de la UE de 451 puntos es una media no ponderada de las 27 puntuaciones medias nacionales y no constituye un agregado oficial de la OCDE para la UE.",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución.",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Quanto sono sviluppate le competenze di lettura tra gli studenti europei?",
-  "subtitle": "L'Irlanda si posiziona al primo posto nell'UE per quanto riguarda la lettura, con 500 punti nel test PISA 2025. La media non ponderata dell'UE-27 si attesta intorno ai 451 punti, dieci punti al di sotto della media OCSE di 461.",
+  "title": "Come si comportano gli studenti europei nella lettura?",
+  "subtitle": "Con 500 punti nel test PISA 2025, l'Irlanda si posiziona al primo posto nella classifica UE per la lettura, mentre Cipro è ultima con 379 punti. La media europea si attesta intorno ai 451 punti, dieci punti al di sotto della media OCSE di 461.",
   "textNoteDescription": "Nota",
-  "textNote": "Le prestazioni nella lettura sono calate in modo particolarmente marcato. La media OCSE è scesa a 461 punti nel PISA 2025, 14 punti in meno rispetto al 2022 e 28 punti al di sotto del livello del 2015 di 489. L'Irlanda ha ottenuto il punteggio più alto nella lettura nell'UE con 500 punti, seguita a ruota dall'Estonia con 499, mentre Cipro ha registrato il punteggio più basso con 379. Il dato UE di 451 punti è una media non ponderata dei 27 punteggi medi nazionali, piuttosto che un aggregato ufficiale dell'OCSE per l'UE.",
+  "textNote": "Il programma PISA valuta la capacità degli studenti quindicenni di applicare le proprie conoscenze e competenze per affrontare sfide concrete. I risultati nella lettura sono calati in modo particolarmente marcato nei paesi OCSE, con un calo di 14 punti rispetto al 2022 e di 28 punti rispetto al livello di 489 raggiunto nel 2015. Il dato UE di 451 punti è una media non ponderata dei 27 punteggi medi nazionali e non costituisce un punteggio aggregato ufficiale dell'OCSE per l'UE.",
   "textSourceDescription": "Fonte",
   "textSource": "OCSE (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
-  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela.",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela."
 }

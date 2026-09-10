@@ -1,12 +1,12 @@
 {
-  "title": "Kokie stiprūs yra Europos mokinių skaitymo įgūdžiai?",
-  "subtitle": "Airija pirmauja ES pagal skaitymą, surinkusi 500 balų PISA 2025 tyrime. Nesvertinis ES-27 vidurkis yra apie 451 balas, dešimčia balų mažesnis nei EBPO vidurkis – 461 balas.",
+  "title": "Kaip sekasi Europos mokiniams skaityti?",
+  "subtitle": "Surinkusi 500 balų 2025 m. PISA teste, Airija pirmauja ES skaitymo reitinge, o Kipras – paskutinis su 379 balais. Visos ES vidurkis siekia apie 451 balą, dešimčia balų mažiau nei EBPO vidurkis – 461.",
   "textNoteDescription": "Pastaba",
-  "textNote": "Skaitymo rezultatai ypač smarkiai suprastėjo. EBPO vidurkis PISA 2025 tyrime sumažėjo iki 461 balo, t. y. 14 balų mažiau nei 2022 m. ir 28 balais mažiau nei 2015 m. (489 balai). Aukščiausią skaitymo balą ES pasiekė Airija – 500 balų, nuo jos neatsiliko Estija – 499 balai, o mažiausią – Kipras – 379 balai. ES rodiklis – 451 balas – yra nesvertinis 27 nacionalinių balų vidurkis, o ne oficialus EBPO ES suvestinis rodiklis.",
+  "textNote": "PISA tyrimas vertina 15 metų mokinių gebėjimą pritaikyti savo žinias ir įgūdžius sprendžiant realaus gyvenimo problemas. Skaitymo rezultatai ypač smarkiai sumažėjo visoje EBPO šalyje – 14 balų mažiau nei 2022 m. ir 28 balai mažiau nei 2015 m. (489 balai). ES rodiklis – 451 balas – yra nesvertinis 27 nacionalinių vidutinių balų vidurkis ir nėra oficialus EBPO suvestinis rodiklis ES.",
   "textSourceDescription": "Šaltinis",
   "textSource": "EBPO (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
-  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai."
 }

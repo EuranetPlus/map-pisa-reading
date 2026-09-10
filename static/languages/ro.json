@@ -1,12 +1,12 @@
 {
-  "title": "Cât de puternice sunt abilitățile de citire în rândul elevilor europeni?",
-  "subtitle": "Irlanda se află în fruntea UE la citire, cu 500 de puncte în PISA 2025. Media neponderată a UE-27 este de aproximativ 451 de puncte, cu zece puncte sub media OCDE de 461.",
+  "title": "Cum se descurcă elevii europeni la citire?",
+  "subtitle": "Cu 500 de puncte la testul PISA din 2025, Irlanda se află în fruntea clasamentului UE la citire, în timp ce Cipru se află pe ultimul loc, cu 379. Media la nivelul UE se situează la aproximativ 451 de puncte, cu zece puncte sub media OCDE de 461.",
   "textNoteDescription": "Nota",
-  "textNote": "Performanța la citire a scăzut deosebit de brusc. Media OCDE a scăzut la 461 de puncte în PISA 2025, cu 14 puncte mai mică decât în 2022 și cu 28 de puncte sub nivelul din 2015 de 489. Irlanda a obținut cel mai mare scor la citire din UE, de 500 de puncte, urmată îndeaproape de Estonia, cu 499, în timp ce Cipru a înregistrat cel mai mic scor, de 379. Cifra UE de 451 de puncte este o medie neponderată a celor 27 de scoruri medii naționale, mai degrabă decât un agregat oficial OCDE la nivelul UE.",
+  "textNote": "PISA evaluează capacitatea elevilor de 15 ani de a-și aplica cunoștințele și abilitățile pentru a aborda provocările din viața reală. Performanța la citire a scăzut deosebit de brusc în întreaga OCDE, cu 14 puncte mai mică decât în 2022 și cu 28 de puncte sub nivelul din 2015 de 489. Cifra UE de 451 de puncte este o medie neponderată a celor 27 de scoruri medii naționale și nu constituie un agregat oficial OCDE pentru UE.",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție.",
   "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție."
 }

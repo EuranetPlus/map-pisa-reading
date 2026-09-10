@@ -1,12 +1,12 @@
 {
-  "title": "Aké silné sú čitateľské zručnosti európskych študentov?",
-  "subtitle": "Írsko je v teste PISA 2025 na čele EÚ v čítaní s 500 bodmi. Nevážený priemer EÚ-27 je okolo 451 bodov, čo je desať bodov pod priemerom OECD, ktorý je 461.",
+  "title": "Aké sú výsledky európskych žiakov v čítaní?",
+  "subtitle": "Írsko s 500 bodmi v teste PISA z roku 2025 obsadilo prvé miesto v rebríčku EÚ v čítaní, zatiaľ čo Cyprus je posledný s 379 bodmi. Priemer v celej EÚ je približne 451 bodov, čo je o desať bodov menej ako priemer OECD, ktorý je 461.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Obzvlášť prudko klesla čitateľská výkonnosť. Priemer OECD klesol v teste PISA 2025 na 461 bodov, čo je o 14 bodov menej ako v roku 2022 a o 28 bodov menej ako v roku 2015, keď bola 489. Írsko dosiahlo najvyššie skóre v čítaní v EÚ s 500 bodmi, tesne nasledované Estónskom so 499 bodmi, zatiaľ čo Cyprus zaznamenal najnižšie skóre s 379 bodmi. Údaj EÚ 451 bodov je nevážený priemer 27 národných priemerných skóre, a nie oficiálny súhrn OECD za EÚ.",
+  "textNote": "PISA hodnotí schopnosť 15-ročných žiakov aplikovať svoje vedomosti a zručnosti na riešenie reálnych životných výziev. Čitateľská výkonnosť klesla obzvlášť prudko v celej OECD, o 14 bodov nižšie ako v roku 2022 a o 28 bodov pod úrovňou 489 z roku 2015. Hodnota 451 bodov pre EÚ je nevážený priemer 27 národných priemerných skóre a nepredstavuje oficiálny súhrn OECD pre EÚ.",
   "textSourceDescription": "Zdroj",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne."
 }

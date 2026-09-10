@@ -1,12 +1,12 @@
 {
-  "title": "Hoe goed zijn de leesvaardigheden van Europese studenten?",
-  "subtitle": "Ierland staat met 500 punten in PISA 2025 bovenaan de EU-ranglijst voor leesvaardigheid. Het ongewogen gemiddelde van de EU-27 ligt rond de 451 punten, tien punten lager dan het OECD-gemiddelde van 461.",
+  "title": "Hoe presteren Europese leerlingen op het gebied van lezen?",
+  "subtitle": "Met 500 punten in de PISA-test van 2025 staat Ierland bovenaan de EU-ranglijst voor leesvaardigheid, terwijl Cyprus met 379 punten onderaan staat. Het EU-brede gemiddelde ligt rond de 451 punten, tien punten lager dan het OECD-gemiddelde van 461.",
   "textNoteDescription": "Opmerking",
-  "textNote": "De leesprestaties zijn met name sterk achteruitgegaan. Het gemiddelde van de OESO daalde naar 461 punten in PISA 2025, 14 punten lager dan in 2022 en 28 punten lager dan het niveau van 489 in 2015. Ierland behaalde de hoogste leesscore in de EU met 500 punten, op de voet gevolgd door Estland met 499, terwijl Cyprus de laagste score noteerde met 379. Het EU-cijfer van 451 punten is een ongewogen gemiddelde van de 27 nationale gemiddelde scores en geen officieel OESO-gemiddelde voor de EU.",
+  "textNote": "PISA beoordeelt het vermogen van 15-jarige leerlingen om hun kennis en vaardigheden toe te passen bij het aanpakken van uitdagingen uit het dagelijks leven. De leesprestaties zijn met name in de OESO sterk gedaald, 14 punten lager dan in 2022 en 28 punten lager dan het niveau van 489 in 2015. Het EU-cijfer van 451 punten is een ongewogen gemiddelde van de 27 nationale gemiddelde scores en vormt geen officieel OESO-totaalcijfer voor de EU.",
   "textSourceDescription": "Bron",
   "textSource": "OESO (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid."
 }

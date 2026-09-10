@@ -1,12 +1,12 @@
 {
-  "title": "Kuinka vahvoja eurooppalaisten opiskelijoiden lukutaidot ovat?",
-  "subtitle": "Irlanti on EU:n kärjessä lukemisessa 500 pisteellä PISA 2025 -tutkimuksessa. Painottamaton EU27:n keskiarvo on noin 451 pistettä, kymmenen pistettä alle OECD:n keskiarvon, joka on 461.",
+  "title": "Miten eurooppalaiset oppilaat suoriutuvat lukemisessa?",
+  "subtitle": "Irlanti on EU:n kärjessä lukemisessa saadulla 500 pisteellä vuoden 2025 PISA-testissä, kun taas Kypros on viimeisenä 379 pisteellä. EU:n laajuinen keskiarvo on noin 451 pistettä, kymmenen pistettä OECD:n keskiarvon 461 alapuolella.",
   "textNoteDescription": "Huomautus",
-  "textNote": "Lukutaito on laskenut erityisen jyrkästi. OECD:n keskiarvo laski 461 pisteeseen PISA 2025 -tutkimuksessa, mikä on 14 pistettä vähemmän kuin vuonna 2022 ja 28 pistettä vähemmän kuin vuoden 2015 taso 489. Irlanti saavutti EU:n korkeimman lukutuloksen, 500 pistettä, ja sitä seurasi tiiviisti Viro 499 pisteellä, kun taas Kypros saavutti alhaisimman pistemäärän, 379. EU:n luku 451 pistettä on 27 kansallisen keskiarvon painottamaton keskiarvo eikä virallinen OECD:n EU-aggregaatti.",
+  "textNote": "PISA-tutkimuksessa arvioidaan 15-vuotiaiden oppilaiden kykyä soveltaa tietojaan ja taitojaan tosielämän haasteisiin. Lukutaito on laskenut erityisen jyrkästi OECD-maissa, 14 pistettä vähemmän kuin vuonna 2022 ja 28 pistettä vähemmän kuin vuoden 2015 taso 489. EU:n luku 451 pistettä on 27 kansallisen keskiarvon painottamaton keskiarvo, eikä se ole virallinen OECD:n aggregaatti EU:lle.",
   "textSourceDescription": "Lähde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti.",
   "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti."
 }
